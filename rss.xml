@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PCPBREALTY]]></title>
         <description><![CDATA[PCPBREALTY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pcpbrealty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 02:46:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 02:47:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pcpbrealty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Real Estate]]></title>
             <description><![CDATA[<h1>Real Estate</h1>]]></description>
-            <link>undefinedreal-estate/index.html</link>
+            <link>https://thegrid.ai/pcpbrealty/real-estate/index.html</link>
             <guid isPermaLink="false">7c963221-56d1-43c1-92c5-9ea34258a378</guid>
-            <pubDate>Wed, 30 Dec 2015 02:46:54 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 02:47:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
