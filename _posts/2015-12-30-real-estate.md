@@ -6,20 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: SoCal Investments
-datePublished: '2015-12-30T02:47:09.731Z'
-dateModified: '2015-12-30T02:46:54.078Z'
+datePublished: '2016-01-23T07:33:24.137Z'
+dateModified: '2016-01-23T07:33:18.461Z'
 title: Real Estate
 author: []
+sourcePath: _posts/2015-12-30-real-estate.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-30-real-estate.md
-published: true
 url: real-estate/index.html
 _type: Article
 
 ---
 Real Estate
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39696e75-5915-4858-bc39-7387a93ed0c1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43c9a46b-b76f-4246-af5b-5fb6643a952d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad284f42-729f-46f0-85e6-3db0a8e8f955.jpg)
