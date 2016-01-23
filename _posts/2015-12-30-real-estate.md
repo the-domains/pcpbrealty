@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: SoCal Investments
-datePublished: '2016-01-23T15:49:11.100Z'
+datePublished: '2016-01-23T15:49:11.446Z'
 dateModified: '2016-01-23T15:49:07.677Z'
 title: Real Estate
 author: []
