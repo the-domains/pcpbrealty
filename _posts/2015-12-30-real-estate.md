@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: SoCal Investments
-datePublished: '2016-01-23T15:49:11.446Z'
-dateModified: '2016-01-23T15:49:07.677Z'
-title: Real Estate
+description: Real Estate
+datePublished: '2016-05-01T15:42:04.473Z'
+dateModified: '2016-05-01T15:41:43.142Z'
+title: ''
 author: []
 sourcePath: _posts/2015-12-30-real-estate.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: real-estate/index.html
 _type: Article
 
