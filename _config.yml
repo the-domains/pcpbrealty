@@ -1,7 +1,7 @@
 name: PCPBREALTY
 favicon: null
-layout_spectrum: 0.7255628153216094
-typography_spectrum: 0.2701396
+layout_spectrum: 0.041875371942296624
+typography_spectrum: 0.17693707975558937
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  brandStrength: 0.981170195620507
+  lightness: 0.28044343437068164
+  saturation: 0.6262822069693357
+  rhythmicContrast: 0.9368990657385439
 purpose: []
